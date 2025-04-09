@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    max-width: var(--max-width);
+    margin: auto;
+}
+
+nav > ul{
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+}
+
+nav > ul > li:hover{
+    cursor: pointer;
+}
+

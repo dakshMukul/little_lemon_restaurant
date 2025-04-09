@@ -1,0 +1,21 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 16px;
+    max-width: 65ch;
+}
