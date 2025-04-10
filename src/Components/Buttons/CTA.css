@@ -1,0 +1,12 @@
+.CTA-btn{
+    background-color: var(--secondary-color);
+    border-radius: 10px;
+    border: none;
+    padding: .5rem 1rem;
+    font-size: 18px;
+}
+
+.CTA-btn:hover{
+    cursor: pointer;
+    
+}

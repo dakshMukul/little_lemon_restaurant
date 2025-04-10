@@ -1,0 +1,42 @@
+.card{
+    max-width: 300px;
+    overflow: hidden;
+    border-radius: 16px;
+    background-color: var(--accent-color);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card > img {
+    width: 100%;
+    
+}
+
+.card-title{
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.card-title > span {
+    font-weight: bold;
+    color: var(--highlight-color);
+}
+
+.card-discription{
+    padding: 1rem;
+}
+
+.card-cta{
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.card-cta img{
+    width: 25px;
+
+}
+
+.card-cta:hover{
+    cursor: pointer;
+}

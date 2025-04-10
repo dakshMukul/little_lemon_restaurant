@@ -1,0 +1,42 @@
+.hero-section{
+    background-color: var(--primary-color);
+    padding: var(--spacing-lg);
+}
+
+.hero-content{
+    position: relative;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.hero-text{
+    color: var(--light-color);
+    max-width: 300px;
+    /* background-color: rebeccapurple; */
+}
+.hero-text > h1{
+    color: var(--secondary-color);
+    font-family: "Markazi Text";
+    font-size: 60px;
+
+}
+.hero-text > h2{
+    font-size: 24px;
+    margin-bottom: 2rem;
+}
+.hero-text > p{
+    margin-bottom: 1rem;
+}
+.hero-image{
+    position: absolute;
+    right: 0rem;
+    max-width: 300px;
+    max-height: 400px;
+    overflow: hidden;
+    border-radius: var(--border-radius);
+}
+.hero-image > img {
+    width: 100%;
+}

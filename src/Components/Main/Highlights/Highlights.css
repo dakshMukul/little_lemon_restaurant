@@ -1,0 +1,22 @@
+.highlights-content{
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding-top: 10rem;
+
+}
+
+.head{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 1rem;
+}
+
+.highlights-cards{
+    display: flex;
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 1rem;
+}
+

@@ -1,0 +1,4 @@
+const foodItems = [
+    {id},
+    {},
+]
