@@ -1,0 +1,83 @@
+.testimonials-section{
+    background-color: var(--primary-color);
+    padding: var(--spacing-lg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testimonials-section > h1{
+    color: var(--accent-color);
+}
+
+
+.slider{
+    max-width: 900px;
+    padding: 1rem;
+    margin: 0 auto ;
+}
+
+.testimonial-card{
+    padding: 1.5rem;
+    margin: 10px;
+    background-color: var(--accent-color);
+    border-radius: 16px;
+    height: 250px;
+    /* overflow: auto; */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.rating{
+    /* color: var(--sacondary-color); */
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+
+.review-text{
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.slick-slide > div{
+    display: flex;
+    /* justify-content: center; */
+    /* padding: 10px; */
+}
+
+.slider .slick-dots li button:before {
+    color: var(--accent-color) ;
+    font-size: 10px;
+}
+
+.slider .slick-dots li.slick-active button::before{
+    color: var(--secondary-color);
+}
+
+.slider .slick-prev:before,
+.slider .slick-next:before {
+  color: #f4ce14;     /* Your custom color (e.g., yellow) */
+  font-size: x-large;    /* Adjust size as needed */
+}
+
+
+
+

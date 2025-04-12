@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ananya Sharma",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "rating": 5,
+    "review": "Little Lemon is my go-to spot! The Mediterranean flavors are so authentic and comforting. The ambiance is just perfect too!"
+  },
+  {
+    "id": 2,
+    "name": "Ravi Mehta",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "rating": 4,
+    "review": "Great food and lovely service. The hummus was top-notch. I just wish the waiting time was a little shorter."
+  },
+  {
+    "id": 3,
+    "name": "Neha Kulkarni",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg",
+    "rating": 5,
+    "review": "Absolutely loved it! The lemon-infused desserts are a must-try. Perfect place for a weekend dinner."
+  },
+  {
+    "id": 4,
+    "name": "Aditya Verma",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "rating": 3,
+    "review": "The food was decent but not mind-blowing. Still, a good place to catch up with friends in a cozy environment."
+  },
+  {
+    "id": 5,
+    "name": "Priya Nair",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "rating": 4,
+    "review": "Super fresh ingredients and a modern twist on traditional recipes. I love how they keep the menu exciting!"
+  },
+  {
+    "id": 6,
+    "name": "Karan Singh",
+    "image": "https://randomuser.me/api/portraits/men/36.jpg",
+    "rating": 5,
+    "review": "Exceptional service and the lamb shawarma was heavenly. Highly recommended for food lovers!"
+  },
+  {
+    "id": 7,
+    "name": "Meera Joshi",
+    "image": "https://randomuser.me/api/portraits/women/27.jpg",
+    "rating": 4,
+    "review": "A lovely little spot. The decor is charming, and the staff is very courteous."
+  },
+  {
+    "id": 8,
+    "name": "Siddharth Rao",
+    "image": "https://randomuser.me/api/portraits/men/35.jpg",
+    "rating": 4,
+    "review": "Great atmosphere and the mezze platter is unbeatable. Will definitely be coming back!"
+  },
+  {
+    "id": 9,
+    "name": "Ishita Kapoor",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg",
+    "rating": 5,
+    "review": "Five stars for flavor, service, and presentation. Every dish was a piece of art!"
+  },
+  {
+    "id": 10,
+    "name": "Aman Desai",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg",
+    "rating": 3,
+    "review": "Food was okay, but the seating was a bit cramped. Still a decent experience overall."
+  }
+]
